@@ -61,10 +61,8 @@ html, body {
       color:#41392C;
       text-decoration: underline;
     }
-  
-  /* 
 
- .social {
+        .social {
           float: right;
           width: 20%;
           height: 10px;
@@ -84,6 +82,7 @@ html, body {
         .social-icon:hover {
           color:#ffffff;
         }
+    /* 
 
     Intro
   
