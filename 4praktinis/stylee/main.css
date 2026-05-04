@@ -162,7 +162,10 @@ html, body {
     font-size: 2em;
     margin-bottom: 0em;
   }
-  
+  h6 {
+    font-size: 2em;
+    margin-bottom: 0em;
+  }
 
   .iframe-map iframe {
     width: 100%;
