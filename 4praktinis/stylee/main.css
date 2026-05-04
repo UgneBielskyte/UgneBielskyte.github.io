@@ -63,7 +63,28 @@ html, body {
     }
   
   /* 
-  
+
+ .social {
+          float: right;
+          width: 20%;
+          height: 10px;
+          margin: 45px 0;
+          text-align: left;
+
+        }
+
+        .social-icon {
+          color:#D6C6BF;
+          width: 1.3em;
+          height: 1.3em;
+          padding-left: 1.5em;
+
+        }
+
+        .social-icon:hover {
+          color:#ffffff;
+        }
+
     Intro
   
   */
