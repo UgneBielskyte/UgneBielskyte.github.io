@@ -162,6 +162,12 @@ html, body {
     font-size: 2em;
     margin-bottom: 0em;
   }
+
+#pranesk.html {
+        text-align: center;
+    padding-top: 2em;
+    clear: both;
+}
   h6 {
     font-size: 2em;
     margin-bottom: 0em;
