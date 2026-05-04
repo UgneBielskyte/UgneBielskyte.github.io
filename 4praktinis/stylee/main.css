@@ -142,7 +142,7 @@ html, body {
   
   #intro {
     text-align: center;
-    color: #41392C;
+    color: #00000;
   }
   
   #intro:hover {
@@ -194,7 +194,7 @@ html, body {
   }
 
 #pranesk.html {
-        text-align: center;
+    text-align: center;
     padding-top: 2em;
     clear: both;
 }
