@@ -83,6 +83,17 @@ html, body {
         .social-icon:hover {
           color:#ffffff;
         }
+
+.intro-social {
+  position: absolute;
+  top: 120px;   /* reguliuoji kad būtų po navigation */
+  right: 20px;
+
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+
     /* 
 
     Intro
