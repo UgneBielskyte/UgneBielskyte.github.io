@@ -46,7 +46,7 @@ html, body {
   
   .navigation {
     float: right;
-    text-align: right;
+    text-align: center;
     padding-top: 2em;
     width: 60%;
   }
