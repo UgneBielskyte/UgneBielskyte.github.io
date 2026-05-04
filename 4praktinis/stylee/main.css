@@ -69,15 +69,13 @@ html, body {
           height: 10px;
           margin: 45px 0;
           text-align: left;
-
         }
 
         .social-icon {
-          color:#D6C6BF;
+          color:#41392C;
           width: 1.3em;
           height: 1.3em;
           padding-left: 1.5em;
-
         }
 
         .social-icon:hover {
@@ -86,7 +84,7 @@ html, body {
 
 .intro-social {
   position: absolute;
-  top: 120px;   /* reguliuoji kad būtų po navigation */
+  top: 80px; 
   right: 20px;
 
   display: flex;
