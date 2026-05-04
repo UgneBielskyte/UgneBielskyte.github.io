@@ -64,6 +64,7 @@ html, body {
 
         .social {
           float: right;
+          text-align: right;
           width: 20%;
           height: 10px;
           margin: 45px 0;
